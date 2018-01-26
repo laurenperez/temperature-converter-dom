@@ -1,3 +1,38 @@
 h1 {
-  color: blue;
+  color: white;
+  text-align: center;
+}
+
+body {
+  background: gray;
+  width: 100%;
+  text-align: center;
+}
+
+form {
+  background: teal;
+  margin: 10px auto;
+  width: 20%;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+input{
+  padding: 5px;
+  margin: 5px;
+  border-radius: 8px;
+}
+
+#startTemp {
+  width: 200px;
+}
+
+#convertedTemp {
+  background: white;
+  height: 100px;
+  width: 300px;
+  margin: auto;
+  font-weight: bold;
+  font-size: 48px;
+  border-radius: 8px;
 }
